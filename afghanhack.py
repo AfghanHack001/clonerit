@@ -1,6 +1,6 @@
-##   ClonerIT   :       Facebook ID'Z Cloning Tool
-##   Author     :       SomirIT Pvt. Ltd.
-##   Developer  :       Md. Nabid Ul Islam
+##   ClonerIT   :       Nilla Sharifi
+##   Author     :       Elyas Mani.
+##   Developer  :       Mr.Elyas
 ##   Visit      :       https://somirgc.com/somirit
 ##
 ##   Find us    :
